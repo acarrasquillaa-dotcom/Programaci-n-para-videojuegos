@@ -1,16 +1,16 @@
-Programación para videojuegos
+#Programación para videojuegos
 
-Perfil del integrante
+##Perfil del integrante
 
 <img width="738" height="1500" alt="Foto Personal" src="https://github.com/user-attachments/assets/cc00556f-4627-490d-b800-7fafbe6f2ecf" />
 
-Nombre: Angel David Carrasquilla Aroca
+##Nombre: Angel David Carrasquilla Aroca
 
-Rol: Programador
+##Rol: Programador
 
-Ubicación: Cartagena, Bolivar, Colombia
+##Ubicación: Cartagena, Bolivar, Colombia
 
-Perfil
+#Perfil
 
 Estudiante de ingenieria multimedia del curso Programacion para Videojuegos con experencia en desarrollo UIX, aplicaciones movil, diseños web y creacion de espacios multimedia. Interesado en seguir fortaleciendo mis conocimientos en el desarrollo de experiencias interactivas.
 
