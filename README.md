@@ -1,7 +1,7 @@
 Programación para videojuegos
 
 Perfil del integrante
-<img width="738" height="1600" alt="Foto Personal" src="https://github.com/user-attachments/assets/cc00556f-4627-490d-b800-7fafbe6f2ecf" />
+<img width="738" height="1500" alt="Foto Personal" src="https://github.com/user-attachments/assets/cc00556f-4627-490d-b800-7fafbe6f2ecf" />
 
 Nombre: Angel David Carrasquilla Aroca
 
