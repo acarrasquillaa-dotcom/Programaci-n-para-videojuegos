@@ -2,7 +2,8 @@
 
 ## **Perfil del integrante**
 
-<img width="300" alt="Foto Personal" src="https://github.com/user-attachments/assets/cc00556f-4627-490d-b080-7fafbe6f2ecf" />
+<img width="738" height="974" alt="Foto Personal" src="https://github.com/user-attachments/assets/196f7966-c3e5-4c62-bf1b-3f30348ba050" />
+
 
 **Nombre:** Angel David Carrasquilla Aroca
 
