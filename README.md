@@ -14,3 +14,4 @@
 ### **Perfil**
 
 Soy estudiante de ingeniera multimedia del curso **Programación para videojuegos**, tengo 22 años, con este curso espero profundizar en la gestión de proyectos multimedia mediante los videojuegos y así fortalecer mis conocimientos.
+# UNAD-GameCore
