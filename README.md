@@ -14,6 +14,19 @@
 ### **Perfil**
 
 Soy estudiante de ingeniera multimedia del curso **Programación para videojuegos**, tengo 22 años, con este curso espero profundizar en la gestión de proyectos multimedia mediante los videojuegos y así fortalecer mis conocimientos.
+# Programación para videojuegos
+
+## Perfil del integrante
+
+![Foto personal](Yeycol/foto-personal.jpg)
+
+**Nombre:** Yeycol Aristizabal  
+**Rol:** Game Artist  
+**Ubicación:** Valledupar, Cesar, Colombia  
+
+### Perfil
+
+Estudiante de Ingeniería Multimedia con experiencia en diseño gráfico, ilustración, animación 2D y creación de contenido multimedia. Interesado en el desarrollo visual de videojuegos y en la creación de experiencias interactivas, especialmente desde el área de arte y diseño.# Programaci-n-para-videojuegos
 # **Programación para Videojuegos**
 
 ## **Perfil del integrante**
